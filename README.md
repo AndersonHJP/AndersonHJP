@@ -1,7 +1,26 @@
-Ola, meu nome é Anderson Hericles!
+# 👋 Olá, eu sou Anderson Hericles!
 
- ## My Skills loading..
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="25" height="25"/>[![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java&logoColor=B50202)](https://abcvinicius.github.io/portifolio-abcvinicius/) 
+Sou um desenvolvedor Java apaixonado por tecnologia e soluções eficientes. Trabalho principalmente no desenvolvimento backend, utilizando **Java** e **Spring Boot** para criar APIs robustas e escaláveis.  
+Atualmente, busco aprimorar minhas habilidades e contribuir para projetos inovadores. 🚀  
 
-<a href="https://abcvinicius.github.io/portifolio-abcvinicius/">
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=540101&height=120&section=footer"/>
+💡 Sempre em busca de aprendizado e desafios!
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+## 📬 Entre em contato comigo!
+📧 **Email:** anderson.hericles68@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-hericles/)
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=004AAD&height=120&section=footer"/>
