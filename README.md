@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Anderson Hericles!
 
 Sou um desenvolvedor Java apaixonado por tecnologia e soluções eficientes. Trabalho principalmente no desenvolvimento backend, utilizando **Java** e **Spring Boot** para criar APIs robustas e escaláveis.  
-Atualmente, busco aprimorar minhas habilidades e contribuir para projetos inovadores. 🚀  
+🚀  
 
 💡 Sempre em busca de aprendizado e desafios!
 
