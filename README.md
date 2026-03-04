@@ -3,7 +3,6 @@
 Sou um desenvolvedor Java apaixonado por tecnologia e soluções eficientes. Trabalho principalmente no desenvolvimento backend, utilizando **Java** e **Spring Boot** para criar APIs robustas e escaláveis.  
 🚀  
 
-💡 Sempre em busca de aprendizado e desafios!
 
 ---
 
